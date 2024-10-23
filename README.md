@@ -18,8 +18,7 @@ A full-stack web application for managing restaurant orders and e-commerce opera
   - Node.js (with Express.js)
 - **Database**: 
   - MySQL
-- **Payment Integration**: 
-  - (Optional: Stripe/PayPal integration details if included)
+
 
 ## Prerequisites
 
@@ -33,5 +32,5 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/pasachiya/trendy-restaurant-ecommerce-platform.git
-   cd trendy-restaurant-ecommerce-platform
+   git clone https://github.com/Pasachiya/E-Commerce-Platform.git
+   cd E-Commerce-Platform
